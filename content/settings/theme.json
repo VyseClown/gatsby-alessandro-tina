@@ -22,7 +22,7 @@
     "underline": true
   },
   "hero": {
-    "image": "../images/cafe.jpg",
+    "image": "../images/react.jpeg",
     "large": false,
     "overlay": true,
     "overlap": "8rem",

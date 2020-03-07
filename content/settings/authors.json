@@ -6,10 +6,13 @@
       "email": "test@test.com"
     },
     {
-      "id": "scott-byrne",
-      "name": "Scott Byrne",
-      "email": "scott.byrne@forestry.io",
-      "link": "mailto:scott.byrne@forestry.io"
+      "id": "alessandro-gentil",
+      "name": "Alessandro Gentil",
+      "email": "vyseclown@gmail.com",
+      "link": "mailto:vyseclown@gmail.com"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/authors.json"
+  }
 }
