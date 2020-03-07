@@ -1,7 +1,7 @@
 ---
 title: "Flux: Entendendo a arquitetura \_\U0001F389"
 path: /blog/introducing-tina-grande
-date: "2020-12-06T00:00:00.000Z"
+date: '2020-12-06T00:00:00.000Z'
 type: post
 authors:
   - alessandro-gentil
@@ -48,7 +48,3 @@ var TodoApp = React.createClass({
 
 // ...
 ```
-
-## Contributing
-
-Contribute by reporting bugs, requesting features or submiting improvements! We made this for you and would ❤️ any feedback or contributions to make **Tina Grande** better for everyone.
