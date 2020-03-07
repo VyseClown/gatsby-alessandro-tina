@@ -65,7 +65,7 @@ export const StyledNavbar = styled.ul`
     align-items: stretch;
     opacity: 0;
     z-index: 1000;
-    background-color: ${props => 
+    background-color: ${props =>
       props.isDarkMode || props.theme.header.transparent
         ? mix(0.95, props.theme.color.black, props.theme.color.white)
         : mix(0.95, props.theme.color.white, props.theme.color.black)};

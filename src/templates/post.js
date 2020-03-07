@@ -39,7 +39,7 @@ function Post(props) {
             </MetaSpan>
           )}
           <MetaActions>
-            <Link to="/blog">← Back to Blog</Link>
+            <Link to="/blog">← Voltar para Blog</Link>
           </MetaActions>
         </Meta>
         <h1>

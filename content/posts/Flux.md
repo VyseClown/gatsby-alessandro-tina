@@ -1,7 +1,7 @@
 ---
 title: "Flux: Entendendo a arquitetura \_\U0001F389"
 path: /blog/introducing-tina-grande
-date: '2020-12-06T00:00:00.000Z'
+date: "2020-12-06T00:00:00.000Z"
 type: post
 authors:
   - alessandro-gentil
@@ -21,7 +21,8 @@ Flux não é um framework ou biblioteca.
 Comparemos ele com a arquitetura MVC.
 
 No lugar de dividir a aplicação entre Model, View e Controller, com Flux há a sugestão de dividir em Stores, Dispatcher, Views, Action/Action Creators.
-
+Uma visão **simples** da construção desse fluxo seria algo como:
+![Hopper The Rabbit](../images/react.jpeg)
 Talvez já tenha visto algumas imagens como essa quando estava tentando entender MVC.
 
 E geralmente vinham com uma explicação de cada item, exatamente como farei agora:

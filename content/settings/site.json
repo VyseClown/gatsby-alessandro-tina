@@ -1,8 +1,8 @@
 {
-  "logo": "Coffee",
-  "title": "Tina Grande",
-  "description": "Tina Grande is a feature rich Gatsby starter with full TinaCMS integration.",
-  "author": "TinaCMS",
+  "logo": "React",
+  "title": "Apenas um blog",
+  "description": "Apenas um blog is a feature rich Gatsby starter with full TinaCMS integration.",
+  "author": "With Gatsby",
   "__gatsby_resolved": {
     "fileRelativePath": "/content/settings/site.json"
   }

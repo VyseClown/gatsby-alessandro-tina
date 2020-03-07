@@ -44,12 +44,12 @@ export default function List({ data, pageContext }) {
                   <MetaSpan>{item.node.frontmatter.date}</MetaSpan>
                   {item.node.frontmatter.authors && (
                     <MetaSpan>
-                      <em>By</em>&nbsp;
+                      <em>Por</em>&nbsp;
                       <ListAuthors authorIDs={item.node.frontmatter.authors} />
                     </MetaSpan>
                   )}
                   <MetaActions>
-                    <Link to={item.node.frontmatter.path}>Read Article →</Link>
+                    <Link to={item.node.frontmatter.path}>Leia o artigo →</Link>
                   </MetaActions>
                 </Meta>
               </Paper>
